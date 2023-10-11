@@ -251,6 +251,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: XR Interaction Hands Setup
       objectReference: {fileID: 0}
+    - target: {fileID: 1226091404505045881, guid: 5eccbf4be2c00e94689ee8062e4e7276,
+        type: 3}
+      propertyPath: m_SystemGestureEnded.m_PersistentCalls.m_Calls.Array.data[2].m_Arguments.m_BoolArgument
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1296790819104379258, guid: 5eccbf4be2c00e94689ee8062e4e7276,
+        type: 3}
+      propertyPath: m_SystemGestureEnded.m_PersistentCalls.m_Calls.Array.data[2].m_Arguments.m_BoolArgument
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5773256366622995465, guid: 5eccbf4be2c00e94689ee8062e4e7276,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -715,7 +725,7 @@ PrefabInstance:
     - target: {fileID: 2911663790971151560, guid: 85a5013442f70f342a4913a9013cb9b7,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -0.0628
+      value: -0.0717
       objectReference: {fileID: 0}
     - target: {fileID: 2911663790971151560, guid: 85a5013442f70f342a4913a9013cb9b7,
         type: 3}
